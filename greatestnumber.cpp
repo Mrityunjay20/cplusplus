@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//this is a test code for git session 
+
 int main(){
     int a,b,c,d,e,f;
     cin>>a>>b>>c>>d;
